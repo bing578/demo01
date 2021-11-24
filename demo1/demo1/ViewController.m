@@ -15,7 +15,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"");
+    NSLog(@"this is a demo1");
     // Do any additional setup after loading the view.
 }
 
